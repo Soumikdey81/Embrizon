@@ -1,0 +1,92 @@
+{
+  "apps": [
+    {
+      "name": "YouTube",
+      "logo": "https://img.icons8.com/color/96/youtube-play.png"
+    },
+    {
+      "name": "Instagram",
+      "logo": "https://img.icons8.com/color/96/instagram-new.png"
+    },
+    {
+      "name": "Facebook",
+      "logo": "https://img.icons8.com/color/96/facebook-new.png"
+    },
+    {
+      "name": "WhatsApp",
+      "logo": "https://img.icons8.com/color/96/whatsapp.png"
+    },
+    {
+      "name": "Snapchat",
+      "logo": "https://img.icons8.com/color/96/snapchat.png"
+    },
+    {
+      "name": "TikTok",
+      "logo": "https://img.icons8.com/color/96/tiktok--v1.png"
+    },
+    {
+      "name": "Spotify",
+      "logo": "https://img.icons8.com/color/96/spotify--v1.png"
+    },
+    {
+      "name": "Netflix",
+      "logo": "https://img.icons8.com/color/96/netflix-desktop-app.png"
+    },
+    {
+      "name": "Amazon",
+      "logo": "https://img.icons8.com/color/96/amazon.png"
+    },
+    {
+      "name": "Twitter (X)",
+      "logo": "https://img.icons8.com/color/96/twitterx--v1.png"
+    },
+    {
+      "name": "LinkedIn",
+      "logo": "https://img.icons8.com/color/96/linkedin.png"
+    },
+    {
+      "name": "Telegram",
+      "logo": "https://img.icons8.com/color/96/telegram-app.png"
+    },
+    {
+      "name": "Pinterest",
+      "logo": "https://img.icons8.com/color/96/pinterest--v1.png"
+    },
+    {
+      "name": "Reddit",
+      "logo": "https://img.icons8.com/color/96/reddit--v1.png"
+    },
+    {
+      "name": "Discord",
+      "logo": "https://img.icons8.com/color/96/discord-logo.png"
+    },
+    {
+      "name": "Uber",
+      "logo": "https://img.icons8.com/ios-filled/96/000000/uber.png"
+    },
+    {
+      "name": "Hotstar",
+      "logo": "https://img.icons8.com/color/96/hotstar.png"
+    },
+    {
+      "name": "Google Maps",
+      "logo": "https://img.icons8.com/color/96/google-maps-new.png"
+    },
+    {
+      "name": "Gmail",
+      "logo": "https://img.icons8.com/color/96/gmail--v1.png"
+    },
+    {
+      "name": "Zoom",
+      "logo": "https://img.icons8.com/color/96/zoom.png"
+    },
+    {
+      "name": "Microsoft Teams",
+      "logo": "https://img.icons8.com/color/96/microsoft-teams.png"
+    },
+    {
+      "name": "Google Drive",
+      "logo": "https://img.icons8.com/color/96/google-drive--v2.png"
+    }
+  ]
+}
