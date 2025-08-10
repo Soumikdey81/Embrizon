@@ -1,0 +1,78 @@
+.contactForm {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--1);
+  min-height: calc(100vh - 5rem);
+}
+
+.contactForm section {
+  width: clamp(80rem, 80%, 90rem);
+  margin: 6rem auto;
+  display: grid;
+  justify-content: center;
+}
+
+.contactForm img {
+  width: 100%;
+}
+
+.contactForm h2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+}
+
+.contactForm p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.contactForm section a {
+  margin-top: 2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup label {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-light--1);
+}
+
+.formGroup input {
+  padding: 0.8rem 1rem;
+  font-size: 1.4rem;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
+
+.error {
+  color: #ff6b6b;
+  font-size: 1.2rem;
+  margin-top: 0.3rem;
+}
+
+.submitBtn {
+  background-color: var(--color-brand--2);
+  color: white;
+  padding: 1rem;
+  font-size: 1.6rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.submitBtn:hover {
+  background-color: var(--color-brand--1);
+}

@@ -1,0 +1,65 @@
+.contactList {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--1);
+  min-height: calc(100vh - 5rem);
+}
+
+.contactList section {
+  width: clamp(80rem, 80%, 90rem);
+  margin: 6rem auto;
+}
+
+.contactList h2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+}
+
+.contactList p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.contactList section a {
+  margin-top: 2rem;
+}
+
+.cardGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background: var(--color-dark--2);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h3 {
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.card p {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Remove link styling for the card links */
+.cardLink {
+  text-decoration: none;
+  color: inherit;
+  display: block; /* Make the whole card clickable */
+}
+
+.cardLink:hover {
+  color: inherit; /* Keep text color on hover */
+}
